@@ -1,4 +1,4 @@
-#Leap Simple Example Listener
+# Leap Simple Example Listener
 
 ---
 
@@ -15,7 +15,7 @@ In order to use this program you must have setup a workspace in your IDE for Lea
 
 The project was built around a Model 'LM-010' Leap Motion Controller, firmware revision '1.7.0', running software version '2.3.1+31549' on a Mac 'OS X 10.11.6' system. Although these constraints in itself will not hinder anybody's usage of this visualisation program, you may have to configure your system with the software version and API version
 
-##How to use ```SampleListner```
+## How to use ```SampleListner```
 
 ```SampleListner``` can easily be instanced and interacted with.
 
